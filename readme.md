@@ -46,8 +46,8 @@ A smart point-of-sale (POS) system powered by **YOLOv8**, **Streamlit**, and **T
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/smart-billing-app.git
-cd smart-billing-app
+git clone https://github.com/pawanbhatia1304/Smart-Billing-AI.git
+cd Smart-Billing-AI
 ```
 
 2. **Create environment (optional but recommended):**
